@@ -1,0 +1,8 @@
+name: Waypoints
+version: 1.0
+author: klin
+main: com.klin.waypoints.Waypoints
+api-version: 1.14
+commands:
+  waypoints:
+    aliases: wa
